@@ -1,14 +1,14 @@
 @font-face {
     font-family: "Barlow";
-    src: url("../Fonts/Barlow/barlow-v12-latin-regular.woff2") format("woff2"),
-        url("../Fonts/Barlow/barlow-v12-latin-regular.woff") format("woff");
+    src: url(assets/fonts/7fa387951673abf164b13dd1b45c70e3.woff2) format("woff2"),
+        url(assets/fonts/bae4c7f5963304526231feea8cd73988.woff) format("woff");
 
 }
 
 @font-face {
     font-family: "Manrope";
-    src: url("../Fonts/Manrope/manrope-v12-latin-regular.woff2") format("woff2"),
-        url("../Fonts/Manrope/manrope-v12-latin-regular.woff") format("woff");
+    src: url(assets/fonts/244f03be95db25a45a6b3e0c23c47efd.woff2) format("woff2"),
+        url(assets/fonts/047c3f19706781a5d657c94d4465083a.woff) format("woff");
 
 }
 
@@ -16,7 +16,7 @@
     font-family: "Crimson Text";
     font-style: italic;
     font-weight: 400;
-    src: url("../Fonts/CrimsonText/crimson-text-v19-latin-regular.woff2") format("woff2");
+    src: url(assets/fonts/f002dfeee9542c98fae39296e68aea7e.woff2) format("woff2");
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
     U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2122, U+2215,
     U+FEFF, U+FFFD;
@@ -573,3 +573,6 @@ header {
     display: none;
 }
 
+
+
+/*# sourceMappingURL=main.css.map*/
